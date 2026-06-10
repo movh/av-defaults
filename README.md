@@ -36,9 +36,9 @@
 
 | Days To Retain Cleaned Malware | ✅ Configured; 90 |
 
-| Disable Catchup Full Scan | ❌ Disabled |
+| Disable Catchup Full Scan | ✅ Enabled |
 
-| Disable Catchup Quick Scan | ❌ Disabled |
+| Disable Catchup Quick Scan | ✅ Enabled |
 
 | Enable Low CPU Priority | ❌ Disabled (Default) |
 

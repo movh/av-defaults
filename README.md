@@ -22,7 +22,7 @@
 
 | Allow User UI Access | ✅ Allowed. Lets users access UI. |
 
-| Avg CPU Load Factor | ✅ Configured; 50 |
+| Avg CPU Load Factor | ✅ Configured; 30 |
 
 | Archive Max Depth | ✅ Configured; 7 |
 
@@ -58,7 +58,7 @@
 
 | Schedule Quick Scan Time | ⚪ Not Configured |
 
-| Schedule Scan Day | ⚪ No scheduled scan |
+| Schedule Scan Day | ✅ Every Day (default) |
 
 | Schedule Scan Time | ⚪ Not Configured |
 
